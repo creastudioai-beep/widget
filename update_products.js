@@ -1,16 +1,15 @@
 const fs = require('fs');
 const path = require('path');
 
-// ⚠️ ЗАМЕНИТЕ ЭТУ ССЫЛКУ НА ВАШУ (скопируйте из браузера)
+// Твоя ссылка на CSV (та же самая, под которой товары были)
 const CSV_URL = 'http://export.admitad.com/by/webmaster/websites/2929853/products/export_adv_products/?user=pavel_kar8fbbb&code=f0vy5ps4uo&feed_id=26554&format=csv';
 
 const OUTPUT_FILE = path.join(__dirname, 'products.json');
 
-// Функция для определения разделителя и парсинга строки CSV
+// Парсинг строки CSV с разделителем ";" и поддержкой кавычек
 function parseCSVLine(line) {
     if (!line) return [];
-    // Определяем разделитель: если в строке есть ';', то это он, иначе ','
-    const delimiter = line.includes(';') ? ';' : ',';
+    const delimiter = ';'; // твой фид использует точку с запятой
     const result = [];
     let current = '';
     let inQuotes = false;
@@ -27,32 +26,31 @@ function parseCSVLine(line) {
         }
     }
     result.push(current);
-    // Удаляем лишние кавычки и пробелы у каждого поля
+    // Убираем кавычки по краям и лишние пробелы
     return result.map(field => field.trim().replace(/^"|"$/g, ''));
 }
 
 async function main() {
-    console.log('Downloading CSV...');
+    console.log('Загружаю CSV...');
     try {
         const res = await fetch(CSV_URL);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const text = await res.text();
 
         const lines = text.split(/\r?\n/);
-        if (lines.length < 2) throw new Error('Empty CSV');
-
-        // Определяем разделитель по первой строке
-        const delimiter = lines[0].includes(';') ? ';' : ',';
-        console.log(`Detected delimiter: "${delimiter}"`);
+        if (lines.length < 2) throw new Error('Пустой CSV');
 
         const headers = parseCSVLine(lines[0]);
+        console.log('Заголовки:', headers);
+
         const products = [];
 
         for (let i = 1; i < lines.length; i++) {
-            if (!lines[i].trim()) continue; // пропускаем пустые строки
-            const values = parseCSVLine(lines[i]);
+            const line = lines[i].trim();
+            if (!line) continue;
+            const values = parseCSVLine(line);
             if (values.length !== headers.length) {
-                console.warn(`Line ${i + 1}: header count mismatch (${values.length} vs ${headers.length}), skipping`);
+                console.warn(`Строка ${i+1}: несовпадение колонок (${values.length} вместо ${headers.length})`);
                 continue;
             }
             const obj = {};
@@ -61,9 +59,9 @@ async function main() {
         }
 
         fs.writeFileSync(OUTPUT_FILE, JSON.stringify(products, null, 2), 'utf8');
-        console.log(`✅ Saved ${products.length} products to products.json`);
+        console.log(`✅ Готово! Сохранено товаров: ${products.length}`);
     } catch (err) {
-        console.error('❌', err.message);
+        console.error('❌ Ошибка:', err.message);
         process.exit(1);
     }
 }
