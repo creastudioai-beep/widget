@@ -3,169 +3,61 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Витрина товаров LUKOIL</title>
+    <title>Товары LUKOIL</title>
     <style>
-        * {
-            box-sizing: border-box;
-        }
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background: #f5f5f5;
-        }
-        .products-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-        .product-card {
-            background: white;
-            border-radius: 12px;
-            overflow: hidden;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-            transition: transform 0.2s, box-shadow 0.2s;
-            display: flex;
-            flex-direction: column;
-        }
-        .product-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
-        }
-        .product-image {
-            width: 100%;
-            height: 200px;
-            object-fit: contain;
-            background: #fff;
-            padding: 10px;
-        }
-        .product-info {
-            padding: 15px;
-            flex: 1;
-            display: flex;
-            flex-direction: column;
-        }
-        .product-title {
-            font-size: 1rem;
-            font-weight: bold;
-            margin: 0 0 8px;
-            line-height: 1.3;
-            height: 2.6em;
-            overflow: hidden;
-        }
-        .product-price {
-            color: #e67e22;
-            font-size: 1.3rem;
-            font-weight: bold;
-            margin: 10px 0;
-        }
-        .product-price small {
-            font-size: 0.8rem;
-            font-weight: normal;
-            color: #666;
-        }
-        .product-link {
-            display: inline-block;
-            background: #27ae60;
-            color: white;
-            text-decoration: none;
-            padding: 10px 16px;
-            border-radius: 6px;
-            text-align: center;
-            margin-top: auto;
-            transition: background 0.2s;
-        }
-        .product-link:hover {
-            background: #2ecc71;
-        }
-        .error, .loading {
-            text-align: center;
-            padding: 40px;
-            font-size: 1.2rem;
-            background: white;
-            border-radius: 8px;
-            margin: 20px 0;
-        }
-        .error {
-            background: #f8d7da;
-            color: #721c24;
-        }
-        .loading {
-            background: #e9ecef;
-            color: #495057;
-        }
-        footer {
-            margin-top: 30px;
-            font-size: 0.75rem;
-            text-align: center;
-            color: #888;
-        }
-        @media (max-width: 600px) {
-            .products-grid {
-                grid-template-columns: 1fr;
-            }
-        }
+        *{box-sizing:border-box}
+        body{font-family:Arial,sans-serif;margin:0;padding:20px;background:#f5f5f5}
+        .products-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:20px}
+        .product-card{background:#fff;border-radius:12px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,0.1);transition:transform .2s;display:flex;flex-direction:column}
+        .product-card:hover{transform:translateY(-3px)}
+        .product-image{width:100%;height:200px;object-fit:contain;background:#fff;padding:10px}
+        .product-info{padding:15px;flex:1;display:flex;flex-direction:column}
+        .product-title{font-size:1rem;font-weight:bold;margin:0 0 8px;line-height:1.3;height:2.6em;overflow:hidden}
+        .product-price{color:#e67e22;font-size:1.3rem;font-weight:bold;margin:10px 0}
+        .product-link{background:#27ae60;color:#fff;text-align:center;padding:10px;border-radius:6px;text-decoration:none;margin-top:auto}
+        .product-link:hover{background:#2ecc71}
+        .error,.loading{text-align:center;padding:40px;background:#fff;border-radius:8px}
+        .error{background:#f8d7da;color:#721c24}
+        .loading{background:#e9ecef}
+        footer{margin-top:30px;text-align:center;font-size:12px;color:#888}
     </style>
 </head>
 <body>
-<div id="productsContainer">
-    <div class="loading">Загрузка товаров...</div>
-</div>
-<footer>Актуальность товаров: обновляется каждые 2 часа вручную или автоматически через GitHub Actions</footer>
-
+<div id="container"><div class="loading">Загрузка товаров...</div></div>
+<footer>Обновляется автоматически каждые 2 часа</footer>
 <script>
-(async function() {
-    const container = document.getElementById('productsContainer');
+(async function(){
+    const container = document.getElementById('container');
     try {
-        // Загружаем JSON из той же папки, где лежит HTML
-        const response = await fetch('products.json');
-        if (!response.ok) {
-            throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-        }
-        const products = await response.json();
-
-        if (!products || products.length === 0) {
-            container.innerHTML = '<div class="error">❌ Товары не найдены. Проверьте наличие products.json</div>';
-            return;
-        }
-
+        const resp = await fetch('products.json');
+        if(!resp.ok) throw new Error(`HTTP ${resp.status}`);
+        const products = await resp.json();
+        if(!products.length) { container.innerHTML='<div class="error">Нет товаров</div>'; return; }
         let html = '<div class="products-grid">';
-        for (const p of products) {
-            // Берём поля именно из вашего CSV: name, price, url, picture
-            const title = p['name'] || 'Без названия';
-            const price = p['price'] ? p['price'] + ' ₽' : 'Цена не указана';
-            const link = p['url'] || '#';
-            const image = p['picture'] || '';
-
+        for(const p of products){
+            const title = p.name || 'Без названия';
+            const price = p.price ? p.price + ' ₽' : 'Цена не указана';
+            const link = p.url || '#';
+            const image = p.picture || '';
             html += `
                 <div class="product-card">
-                    ${image ? `<img class="product-image" src="${escapeHtml(image)}" alt="${escapeHtml(title)}" onerror="this.src='https://via.placeholder.com/200?text=Нет+фото'">` : '<div class="product-image" style="background:#eee; display:flex; align-items:center; justify-content:center;">📷 Нет фото</div>'}
+                    ${image ? `<img class="product-image" src="${escapeHtml(image)}" alt="${escapeHtml(title)}" onerror="this.src='https://via.placeholder.com/200?text=No+image'">` : '<div class="product-image" style="background:#eee;display:flex;align-items:center;justify-content:center">📷 Нет фото</div>'}
                     <div class="product-info">
                         <div class="product-title">${escapeHtml(title)}</div>
                         <div class="product-price">${escapeHtml(price)}</div>
-                        ${link !== '#' ? `<a href="${escapeHtml(link)}" class="product-link" target="_blank" rel="nofollow sponsored">🚗 Купить</a>` : ''}
+                        ${link !== '#' ? `<a href="${escapeHtml(link)}" class="product-link" target="_blank" rel="nofollow sponsored">Купить</a>` : ''}
                     </div>
                 </div>
             `;
         }
         html += '</div>';
         container.innerHTML = html;
-    } catch (err) {
-        console.error('Ошибка:', err);
-        container.innerHTML = `<div class="error">⚠️ Ошибка загрузки витрины: ${err.message}. Убедитесь, что файл products.json существует в репозитории.</div>`;
+    } catch(e) {
+        console.error(e);
+        container.innerHTML = `<div class="error">Ошибка загрузки: ${e.message}. Проверьте наличие products.json</div>`;
     }
 })();
-
-function escapeHtml(str) {
-    if (!str) return '';
-    return str.replace(/[&<>]/g, function(m) {
-        if (m === '&') return '&amp;';
-        if (m === '<') return '&lt;';
-        if (m === '>') return '&gt;';
-        return m;
-    });
-}
+function escapeHtml(str){ if(!str) return ''; return str.replace(/[&<>]/g,function(m){if(m==='&')return'&amp;';if(m==='<')return'&lt;';if(m==='>')return'&gt;';return m;}); }
 </script>
 </body>
 </html>
