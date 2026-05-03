@@ -351,7 +351,7 @@ function generateHtml(products) {
 <!-- HEADER -->
 <header class="header">
     <div class="header-inner">
-        <div class="logo">LUKOIL <span>SHOP</span></div>
+        <div class="logo">LUKOIL <span>CLUB</span></div>
         <div class="search-wrapper">
             <input type="text" class="search-input" id="searchInput" placeholder="Поиск по маслам и товарам..." autocomplete="off">
             <button class="search-clear" id="searchClear" title="Очистить">&times;</button>
