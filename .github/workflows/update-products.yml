@@ -5,20 +5,36 @@ on:
     - cron: '0 */2 * * *'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
-      - name: Run update script (JSON + YML)
+
+      - name: Run update script (JSON + YML + HTML)
         run: node update_products.js
-      - name: Commit and push
+
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "bot@github.com"
-          git add products.json vk_feed.yml
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update products"
-          git push
+          git add products.json vk_feed.yml admitad-widget.html
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "Изменений нет, пропускаем коммит"
+          else
+            git commit -m "Auto-update products $(date -u +%Y-%m-%d_%H:%M)"
+            git push
+            echo "Изменения отправлены"
+          fi
