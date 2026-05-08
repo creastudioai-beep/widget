@@ -9,7 +9,7 @@ const CSV_URL = 'http://export.admitad.com/by/webmaster/websites/2929853/product
 
 const OUTPUT_JSON  = path.join(__dirname, 'products.json');
 const OUTPUT_YML   = path.join(__dirname, 'vk_feed.yml');
-const OUTPUT_HTML  = path.join(__dirname, 'index.html');
+const OUTPUT_HTML  = path.join(__dirname, 'admitad-widget.html');
 
 const SHOP_SETTINGS = {
     name: 'Автозапчасти и масла',
@@ -665,11 +665,11 @@ async function main() {
     console.log('\n[4/4] Итого:');
     console.log('  products.json      — ' + simplified.length + ' товаров');
     console.log('  vk_feed.yml        — ' + offerCount + ' offers');
-    console.log('  index.html — ' + simplified.length + ' товаров, поиск, фильтры');
+    console.log('  admitad-widget.html — ' + simplified.length + ' товаров, поиск, фильтры');
     console.log('\nГотово!');
 }
 
 main().catch(err => {
     console.error('\nОШИБКА:', err.message);
     process.exit(1);
-});
+}); 
