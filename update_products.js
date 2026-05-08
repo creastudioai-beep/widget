@@ -9,7 +9,7 @@ const CSV_URL = 'http://export.admitad.com/by/webmaster/websites/2929853/product
 
 const OUTPUT_JSON  = path.join(__dirname, 'products.json');
 const OUTPUT_YML   = path.join(__dirname, 'vk_feed.yml');
-const OUTPUT_HTML  = path.join(__dirname, 'admitad-widget.html');
+const OUTPUT_HTML  = path.join(__dirname, 'index.html');
 
 const SHOP_SETTINGS = {
     name: 'Автозапчасти и масла',
