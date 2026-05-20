@@ -1,5 +1,131 @@
 [
   {
+    "name": "Масло для пильных цепей LUKOIL CHAINSAW OIL 1 л",
+    "price": "464",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Fmalorazmernaya_tekhnika%2Fvsesezonnoe_spetsialnoe_maslo_dlya_vsekh_tipov_tsepnykh_pil_lukoyl_chainsaw_oil%3Foffer%3D18494",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/883/poi1t9522x06p982h1p6g3p411mtgf9r.jpg"
+  },
+  {
+    "name": "Полироль пластика с ароматом жевательной резинки ЛУКОЙЛ 520 мл",
+    "price": "471",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokosmetika%2Fpolirol_plastika%3Foffer%3D18557",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/5b7/1qa24jdu70v7r7pucbnona4ppwgb0pwx.jpg"
+  },
+  {
+    "name": "Очиститель карбюратора ЛУКОЙЛ 520 мл",
+    "price": "366",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fochistitel_karbyuratora%3Foffer%3D18559",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/c17/i3ei5xm2ezlpzbo86v6cik534sd73fcm.jpg"
+  },
+  {
+    "name": "Смазка универсальная ЛУКОЙЛ 335 мл",
+    "price": "351",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fsmazka_universalnaya%3Foffer%3D18535",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/d52/c7t752sd3wtobtjpoa6jjpkuhnvohk7g.jpg"
+  },
+  {
+    "name": "Стеклоомывающая жидкость летняя ЛУКОЙЛ с ароматом лайма 4 л",
+    "price": "279",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Fstekloomyvayushchaya_zhidkost%2Fstekloomyvayushchaya_zhidkost_letnyaya_lukoyl_s_aromatom_layma%3Foffer%3D31047",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/165/prufb6v3csdwhc6kt1uymk1a3f7ozppk.png"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH FD 5W-30 4+1 л",
+    "price": "4702",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_fd_sinteticheskoe_5w_30%3Foffer%3D30471",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/ba6/pw0dtzkjlqv8dct6vtfizw34zduxn12c.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH HK 5W-30 4+1 л",
+    "price": "4275",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_hk_sinteticheskoe_5w_30%3Foffer%3D30473",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/893/n8wdicq1318gpch2kf27q8qtm7dxrgps.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH JP 5W-30 4+1 л",
+    "price": "4322",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_5w_30%3Foffer%3D30464",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/b1e/d37azdum7lwgns0xvm3u3k1msdw7363p.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH GC 0W-20 4+1 л",
+    "price": "6981",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_gc_0w_20_maslo_motornoe_sinteticheskoe%3Foffer%3D30467",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/e1a/gz264467enwfg6g00ibjcf744r6s9npr.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH CN 5W-40 4+1 л",
+    "price": "4037",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_cn_5w_40_maslo_motornoe_sinteticheskoe%3Foffer%3D30468",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/d8d/0jkbf2ff92pymhh2nwo0vplk4sc9q52r.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH GC 5W-30 4+1 л",
+    "price": "6317",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_gc_5w_30%3Foffer%3D30466",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/c93/qvm9ncagtq9flkwc626rsd546a325ex6.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH DX1 5W-30 4+1 л",
+    "price": "3909",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dx1_sinteticheskoe_5w_30%3Foffer%3D30472",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/950/r02m4bj41xq1t6hpdgva1467lq23o5xa.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH JP 0W-30 4+1 л",
+    "price": "4259",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_30%3Foffer%3D30285",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/cb1/kgm8awlvl099uqov6ioh955qkd49y64r.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH 0W-40 4+1 л",
+    "price": "5983",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_0w_40%3Foffer%3D30470",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/68c/fjc965lf4ypebvfa2knqi87s5ct4t4o4.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH 5W-40 (API SQ) 4+1 л",
+    "price": "4892",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_5w_40_api_sq%3Foffer%3D30469",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/b65/zq5p1qtt35gz54x2rgco6tz600x1ma43.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 5W-30 4+1 л",
+    "price": "2917",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_30%3Foffer%3D30476",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/6a4/fzs2jeaifeixlgdbi7v2pj7kyekv9rrd.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH JP 0W-20 4+1 л",
+    "price": "5225",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_20%3Foffer%3D30463",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/c49/g74y15w7n847m09qj8ufbiwbxkl4qotv.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH DIESEL 5W-30 4+1 л",
+    "price": "4512",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_5w_30%3Foffer%3D30474",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/481/0czzzfk3dvx8nx64x9wkf6d06xdghyo0.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 10W-40 4+1 л",
+    "price": "3182",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D30478",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/09c/fzugfsfexypbfu55eanh22xfktqz3jvp.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 5W-40 4+1 л",
+    "price": "3705",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_40%3Foffer%3D30477",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/337/1ej4mnc99pf9n79m2kmrka6qwl1b6nxr.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS RACING 5W-50 4+1",
+    "price": "6872",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_racing_sinteticheskoe_5w_50%3Foffer%3D32228",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/5c6/7jjhe2fzsefnx404s56wfgawl62g62qe.jpg"
+  },
+  {
     "name": "Масло моторное ЛУКОЙЛ МОТО 4Т 10W-40 4 л",
     "price": "2934",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Fmalorazmernaya_tekhnika%2Fmaslo_motornoe_lukoyl_moto_4t_polusinteticheskoe_10w_40_sl%3Foffer%3D18044",
@@ -18,12 +144,6 @@
     "picture": "https://ru.lukoil-shop.com/upload/iblock/065/fstis04gmhb8de47fhxfbuuj7qofvqpn.jpg"
   },
   {
-    "name": "Масло для пильных цепей LUKOIL CHAINSAW OIL 1 л",
-    "price": "464",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Fmalorazmernaya_tekhnika%2Fvsesezonnoe_spetsialnoe_maslo_dlya_vsekh_tipov_tsepnykh_pil_lukoyl_chainsaw_oil%3Foffer%3D18494",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/883/poi1t9522x06p982h1p6g3p411mtgf9r.jpg"
-  },
-  {
     "name": "Масло моторное LUKOIL SUPER 5W-40 4 л",
     "price": "1583",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoyl_super_5w_40_sg_cd%3Foffer%3D18272",
@@ -34,18 +154,6 @@
     "price": "374",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fochistitel_tormozov%3Foffer%3D18555",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/0d2/ss2zfn0v9uhdctfdpxv0onxu7yruxca3.jpg"
-  },
-  {
-    "name": "Очиститель карбюратора ЛУКОЙЛ 520 мл",
-    "price": "366",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fochistitel_karbyuratora%3Foffer%3D18559",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/c17/i3ei5xm2ezlpzbo86v6cik534sd73fcm.jpg"
-  },
-  {
-    "name": "Смазка универсальная ЛУКОЙЛ 335 мл",
-    "price": "351",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fsmazka_universalnaya%3Foffer%3D18535",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/d52/c7t752sd3wtobtjpoa6jjpkuhnvohk7g.jpg"
   },
   {
     "name": "Масло моторное LUKOIL LUXE 5W-40 5 л",
@@ -726,106 +834,16 @@
     "picture": "https://ru.lukoil-shop.com/upload/iblock/7cf/ya7d7aa663xoaz38cx99lv3juibhsjv0.png"
   },
   {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH FD 5W-30 4+1 л",
-    "price": "4144",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_fd_sinteticheskoe_5w_30%3Foffer%3D30471",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/ba6/pw0dtzkjlqv8dct6vtfizw34zduxn12c.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH HK 5W-30 4+1 л",
-    "price": "3818",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_hk_sinteticheskoe_5w_30%3Foffer%3D30473",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/893/n8wdicq1318gpch2kf27q8qtm7dxrgps.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH JP 5W-30 4+1 л",
-    "price": "3584",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_5w_30%3Foffer%3D30464",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/b1e/d37azdum7lwgns0xvm3u3k1msdw7363p.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH GC 0W-20 4+1 л",
-    "price": "6648",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_gc_0w_20_maslo_motornoe_sinteticheskoe%3Foffer%3D30467",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/e1a/gz264467enwfg6g00ibjcf744r6s9npr.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH CN 5W-40 4+1 л",
-    "price": "3552",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_cn_5w_40_maslo_motornoe_sinteticheskoe%3Foffer%3D30468",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/d8d/0jkbf2ff92pymhh2nwo0vplk4sc9q52r.jpg"
-  },
-  {
     "name": "Масло моторное LUKOIL GENESIS ARMORTECH DIESEL 5W-40 4+1 л",
     "price": "3674",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_sinteticheskoe_5w_40%3Foffer%3D30475",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/3df/sty514oocrhzpoig5ydtwthx49c8domo.jpg"
   },
   {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH GC 5W-30 4+1 л",
-    "price": "5685",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_gc_5w_30%3Foffer%3D30466",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/c93/qvm9ncagtq9flkwc626rsd546a325ex6.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH DX1 5W-30 4+1 л",
-    "price": "3651",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dx1_sinteticheskoe_5w_30%3Foffer%3D30472",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/950/r02m4bj41xq1t6hpdgva1467lq23o5xa.jpg"
-  },
-  {
     "name": "Масло моторное LUKOIL GENESIS UNIVERSAL DIESEL 5W-30 4+1 л",
     "price": "3682",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_diesel_polusinteticheskoe_5w_30%3Foffer%3D30486",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/138/l6xbpqye2bax3z54n1z6wtpptww95v7z.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH JP 0W-30 4+1 л",
-    "price": "3977",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_30%3Foffer%3D30285",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/cb1/kgm8awlvl099uqov6ioh955qkd49y64r.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH 0W-40 4+1 л",
-    "price": "5586",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_0w_40%3Foffer%3D30470",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/68c/fjc965lf4ypebvfa2knqi87s5ct4t4o4.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH 5W-40 (API SQ) 4+1 л",
-    "price": "4230",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_5w_40_api_sq%3Foffer%3D30469",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/b65/zq5p1qtt35gz54x2rgco6tz600x1ma43.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 5W-30 4+1 л",
-    "price": "2644",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_30%3Foffer%3D30476",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/6a4/fzs2jeaifeixlgdbi7v2pj7kyekv9rrd.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH JP 0W-20 4+1 л",
-    "price": "4334",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_20%3Foffer%3D30463",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/c49/g74y15w7n847m09qj8ufbiwbxkl4qotv.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH DIESEL 5W-30 4+1 л",
-    "price": "3827",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_5w_30%3Foffer%3D30474",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/481/0czzzfk3dvx8nx64x9wkf6d06xdghyo0.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 10W-40 4+1 л",
-    "price": "2837",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D30478",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/09c/fzugfsfexypbfu55eanh22xfktqz3jvp.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 5W-40 4+1 л",
-    "price": "3080",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_40%3Foffer%3D30477",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/337/1ej4mnc99pf9n79m2kmrka6qwl1b6nxr.jpg"
   },
   {
     "name": "Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 5W-40 4+1",
@@ -838,12 +856,6 @@
     "price": "3552",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_cn_5w_40_api_sq%3Foffer%3D32227",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/bbe/5vieftzggq2xabuv2cgygcka73zxser3.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS RACING 5W-50 4+1",
-    "price": "6532",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_racing_sinteticheskoe_5w_50%3Foffer%3D32228",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/5c6/7jjhe2fzsefnx404s56wfgawl62g62qe.jpg"
   },
   {
     "name": "Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 0W-20 4+1",
@@ -1042,12 +1054,6 @@
     "price": "5117",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoil_atf_synth_multi%3Foffer%3D19270",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/0be/uyp3nubfl7bzx4o4tz00nqh30yys67ln.jpg"
-  },
-  {
-    "name": "Полироль пластика с ароматом жевательной резинки ЛУКОЙЛ 520 мл",
-    "price": "471",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokosmetika%2Fpolirol_plastika%3Foffer%3D18557",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/5b7/1qa24jdu70v7r7pucbnona4ppwgb0pwx.jpg"
   },
   {
     "name": "Очиститель дизельных форсунок ЛУКОЙЛ 340 мл",
@@ -1312,12 +1318,6 @@
     "price": "279",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Fstekloomyvayushchaya_zhidkost%2Fstekloomyvayushchaya_zhidkost_letnyaya_lukoyl_s_aromatom_babl_gam%3Foffer%3D27309",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/61f/u10sxdzm491y9q79d340z2yjexs5o8hd.jpg"
-  },
-  {
-    "name": "Стеклоомывающая жидкость летняя ЛУКОЙЛ с ароматом лайма 4 л",
-    "price": "279",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Fstekloomyvayushchaya_zhidkost%2Fstekloomyvayushchaya_zhidkost_letnyaya_lukoyl_s_aromatom_layma%3Foffer%3D31047",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/165/prufb6v3csdwhc6kt1uymk1a3f7ozppk.png"
   },
   {
     "name": "Стеклоомывающая жидкость зимняя ЛУКОЙЛ с ароматом лайма –10°С 4 л",
