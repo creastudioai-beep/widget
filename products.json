@@ -1,5 +1,83 @@
 [
   {
+    "name": "Тормозная жидкость ЛУКОЙЛ DOT 3 0,455 кг",
+    "price": "217",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_klassa_dot_3%3Foffer%3D18492",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/d25/k69mq2g2jm847b864m1ggktd2sr7xuea.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 10W-40 4 л",
+    "price": "2125",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D18465",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/5a4/2k1jh1pio2lyv8kp9uulita4zms4wmjz.jpg"
+  },
+  {
+    "name": "Антифриз ЛУКОЙЛ G12 RED 1 кг",
+    "price": "295",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fokhlazhdayushchie_zhidkosti%2Flegkovye_avtomobili%2Fantifriz_lukoyl_g12_red%3Foffer%3D18111",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/c49/dtfpbe09x40ot09jotlqqs8tqteoqzbc.jpg"
+  },
+  {
+    "name": "Антифриз ЛУКОЙЛ G11 GREEN 1 кг",
+    "price": "256",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fokhlazhdayushchie_zhidkosti%2Flegkovye_avtomobili%2Fantifriz_lukoyl_g11_green%3Foffer%3D18115",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/114/oh5zvnrxk4qkh0gxf4e3b7f894e3xgwu.jpg"
+  },
+  {
+    "name": "Тормозная жидкость ЛУКОЙЛ DOT 3 0,91 кг",
+    "price": "403",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_klassa_dot_3%3Foffer%3D18498",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/a5e/4qi3esnbqfq2i7fyfvhf3t0qraei1y80.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL DIESEL 5W-30 4 л",
+    "price": "2510",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_diesel_polusinteticheskoe_5w_30%3Foffer%3D18477",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/54a/pojph739c1kb9ivxtb9cpd2shic483ui.jpg"
+  },
+  {
+    "name": "Масло трансмиссионное LUKOIL DCTF 4 л",
+    "price": "4995",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoil_dctf%3Foffer%3D19276",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/55b/yj3okqms5u7wds66nhtawahaf9h3jq93.jpg"
+  },
+  {
+    "name": "Тормозная жидкость ЛУКОЙЛ DOT 4 class 6 0,91 кг",
+    "price": "584",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_dot_4_klass_6%3Foffer%3D18511",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/a12/m24sk8xv0hd8ewz5rkc51nmlzhff3g0k.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 10W-40 1 л",
+    "price": "722",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D18464",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/a5a/z9wy16zi2defilnznjizzzcs04m32gxz.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 5W-40 4 л",
+    "price": "2762",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_40%3Foffer%3D30720",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/178/xet38spw9o9i5yb2s19f2i89l7awhp90.png"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL DIESEL 5W-30 4+1 л",
+    "price": "3130",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_diesel_polusinteticheskoe_5w_30%3Foffer%3D30486",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/138/l6xbpqye2bax3z54n1z6wtpptww95v7z.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 10W-40 4+1 л",
+    "price": "2705",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D30478",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/09c/fzugfsfexypbfu55eanh22xfktqz3jvp.jpg"
+  },
+  {
+    "name": "Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 5W-40 4+1",
+    "price": "3446",
+    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_40%3Foffer%3D32226",
+    "picture": "https://ru.lukoil-shop.com/upload/iblock/f80/j9olnzfc9lzo6qkuivc87eyfgb6kd0y9.png"
+  },
+  {
     "name": "Масло трансмиссионное LUKOIL ATF SYNTH VI 4 л",
     "price": "3707",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoil_atf_synth_vi%3Foffer%3D19272",
@@ -16,12 +94,6 @@
     "price": "228",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Fzhidkost_tormoznaya_lukoyl_dot_4%3Foffer%3D18350",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/065/fstis04gmhb8de47fhxfbuuj7qofvqpn.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL DIESEL 5W-30 4 л",
-    "price": "2510",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_diesel_polusinteticheskoe_5w_30%3Foffer%3D18477",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/54a/pojph739c1kb9ivxtb9cpd2shic483ui.jpg"
   },
   {
     "name": "Масло трансмиссионное LUKOIL ATF SYNTH VI 1 л",
@@ -46,24 +118,6 @@
     "price": "3757",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoil_atf_synth_asia%3Foffer%3D19268",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/c5d/mj8kz3d74yw2n669fhdhar1d6dnwtnho.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 5W-40 4 л",
-    "price": "2762",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_40%3Foffer%3D30720",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/178/xet38spw9o9i5yb2s19f2i89l7awhp90.png"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL DIESEL 5W-30 4+1 л",
-    "price": "3130",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_diesel_polusinteticheskoe_5w_30%3Foffer%3D30486",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/138/l6xbpqye2bax3z54n1z6wtpptww95v7z.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 5W-40 4+1",
-    "price": "3446",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_40%3Foffer%3D32226",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/f80/j9olnzfc9lzo6qkuivc87eyfgb6kd0y9.png"
   },
   {
     "name": "Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 5W-30 4+1",
@@ -130,12 +184,6 @@
     "price": "1213",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fokhlazhdayushchie_zhidkosti%2Flegkovye_avtomobili%2Fantifriz_lukoyl_g11_green%3Foffer%3D18116",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/180/3sayq6j1p9xdq23qw3djxkw1y1x23gg5.jpg"
-  },
-  {
-    "name": "Антифриз ЛУКОЙЛ G11 GREEN 1 кг",
-    "price": "256",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fokhlazhdayushchie_zhidkosti%2Flegkovye_avtomobili%2Fantifriz_lukoyl_g11_green%3Foffer%3D18115",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/114/oh5zvnrxk4qkh0gxf4e3b7f894e3xgwu.jpg"
   },
   {
     "name": "Тормозная жидкость ЛУКОЙЛ DOT 4 class 6 0,455 кг",
@@ -352,12 +400,6 @@
     "price": "2049",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoil_atf_iiih%3Foffer%3D19266",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/862/subr2ewbuo5red90fti8cjez5dpiunas.jpg"
-  },
-  {
-    "name": "Масло трансмиссионное LUKOIL DCTF 4 л",
-    "price": "4995",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoil_dctf%3Foffer%3D19276",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/55b/yj3okqms5u7wds66nhtawahaf9h3jq93.jpg"
   },
   {
     "name": "Масло трансмиссионное LUKOIL DCTF FE 1 л",
@@ -624,12 +666,6 @@
     "picture": "https://ru.lukoil-shop.com/upload/iblock/a4e/f0vg11r1f49ko0ixxg5bogf9ck2xz9u7.jpg"
   },
   {
-    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 10W-40 4 л",
-    "price": "2125",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D18465",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/5a4/2k1jh1pio2lyv8kp9uulita4zms4wmjz.jpg"
-  },
-  {
     "name": "Масло моторное LUKOIL GENESIS ARMORTECH CN 5W-40 1 л",
     "price": "1062",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_cn_5w_40_maslo_motornoe_sinteticheskoe%3Foffer%3D18684",
@@ -726,12 +762,6 @@
     "picture": "https://ru.lukoil-shop.com/upload/iblock/8d7/k29uacl69c8e4uokbi5d0kec3z9l3nbt.jpg"
   },
   {
-    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 10W-40 1 л",
-    "price": "722",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D18464",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/a5a/z9wy16zi2defilnznjizzzcs04m32gxz.jpg"
-  },
-  {
     "name": "Масло моторное LUKOIL GENESIS ARMORTECH CN 5W-40 4 л",
     "price": "2550",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_cn_5w_40_maslo_motornoe_sinteticheskoe%3Foffer%3D18685",
@@ -814,12 +844,6 @@
     "price": "3836",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_5w_30%3Foffer%3D30474",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/481/0czzzfk3dvx8nx64x9wkf6d06xdghyo0.jpg"
-  },
-  {
-    "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 10W-40 4+1 л",
-    "price": "2705",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D30478",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/09c/fzugfsfexypbfu55eanh22xfktqz3jvp.jpg"
   },
   {
     "name": "Масло моторное LUKOIL GENESIS UNIVERSAL 5W-40 4+1 л",
@@ -972,18 +996,6 @@
     "picture": "https://ru.lukoil-shop.com/upload/iblock/dd0/bsl3nkrje8th5t4tnmzgraxjol4mj7ld.jpg"
   },
   {
-    "name": "Тормозная жидкость ЛУКОЙЛ DOT 4 class 6 0,91 кг",
-    "price": "584",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_dot_4_klass_6%3Foffer%3D18511",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/a12/m24sk8xv0hd8ewz5rkc51nmlzhff3g0k.jpg"
-  },
-  {
-    "name": "Антифриз ЛУКОЙЛ G12 RED 1 кг",
-    "price": "295",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fokhlazhdayushchie_zhidkosti%2Flegkovye_avtomobili%2Fantifriz_lukoyl_g12_red%3Foffer%3D18111",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/c49/dtfpbe09x40ot09jotlqqs8tqteoqzbc.jpg"
-  },
-  {
     "name": "Антифриз ЛУКОЙЛ G12 RED 5 кг",
     "price": "1348",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fokhlazhdayushchie_zhidkosti%2Flegkovye_avtomobili%2Fantifriz_lukoyl_g12_red%3Foffer%3D18112",
@@ -1018,12 +1030,6 @@
     "price": "1072",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoyl_atf_synth_asia_sinteticheskoe%3Foffer%3D18392",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/533/i9x5s1pzk7luxhq0htzp87zsk0erir9v.jpg"
-  },
-  {
-    "name": "Тормозная жидкость ЛУКОЙЛ DOT 3 0,91 кг",
-    "price": "403",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_klassa_dot_3%3Foffer%3D18498",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/a5e/4qi3esnbqfq2i7fyfvhf3t0qraei1y80.jpg"
   },
   {
     "name": "Масло трансмиссионное ЛУКОЙЛ ATF IIIH 1 л",
@@ -1306,12 +1312,6 @@
     "price": "437",
     "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Fzhidkost_tormoznaya_lukoyl_dot_4%3Foffer%3D18351",
     "picture": "https://ru.lukoil-shop.com/upload/iblock/32c/j1upuvvojoigt3gmkcietsmgovh8onyx.jpg"
-  },
-  {
-    "name": "Тормозная жидкость ЛУКОЙЛ DOT 3 0,455 кг",
-    "price": "217",
-    "url": "https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&f_id=26554&ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_klassa_dot_3%3Foffer%3D18492",
-    "picture": "https://ru.lukoil-shop.com/upload/iblock/d25/k69mq2g2jm847b864m1ggktd2sr7xuea.jpg"
   },
   {
     "name": "Масло моторное LUKOIL AVANTGARDE EXTRA 10W-40 5 л",
