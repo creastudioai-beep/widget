@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-08 19:58:16">
+<yml_catalog date="2026-06-08 21:48:00">
     <shop>
         <name>Автозапчасти и масла</name>
         <company>SOCHIAUTOPARTS</company>
@@ -17,6 +17,59 @@
         </categories>
         <offers>
             <offer id="1" available="true">
+                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fsmazka_molibdenovaya%3Foffer%3D18539</url>
+                <price>342.00</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <name>Смазка молибденовая ЛУКОЙЛ 335 мл</name>
+                <description>Обеспечивает эффективную и долговечную работу разного рода механизмов, работающих при повышенных нагрузках и в условиях возможного загрязнения пылью, грязью, осадками. Обладает двойным смазывающим действием – наличие дисульфида молибдена гарантирует сохранение смазывающих свойств даже в тех случаях, когда сама смазка уже истощена или выработалась при высоких температурах. Улучшает скольжение и защищает от износа различные детали (открытые шестерни, цепи, эксцентрики, направляющие, тросы, задвижки, шарниры, звездочки, элементы подъемно-транспортного оборудования и т.п.). Устраняет скрип, предохраняет от ржавчины и коррозии, устойчива к солевым растворам и кислотным осадкам. Сохраняет неизменными смазывающие свойства в диапазоне от -40°С до +200°С. 
+ 
+ Указания по применению
+ Перед использованием хорошо встряхнуть баллон. Нанести смазку тонким слоем на очищенные от рыхлой ржавчины и окалины обрабатываемые детали. Для труднодоступных мест использовать удлинительную трубочку.
+ 
+ Меры безопасности при использовании
+ Использовать осторожно: воспламеняющийся аэрозоль, баллон под давлением. При нагревании возможен взрыв. Беречь от источников воспламенения, нагревания, искр, открытого огня. Не курить при использовании. Не нарушать целостности упаковки и не сжигать даже после использования. Беречь от солнечных лучей, избегать нагревания выше 50°С. 
+ 
+ Срок годности и хранения
+ Допускается хранение при температуре от -40°С&amp;nbsp;до +50°С. Гарантийный срок хранения 36 месяцев с даты изготовления в таре производителя при соблюдении условии транспортирования и хранения.
+ 
+ Упаковка и состав
+ аэрозоль 335 мл
+ алифатический растворитель &amp;gt;30%
+ пропан-бутан &amp;gt;30%
+ синтетическое масло 5-15%
+ мелкодисперсный дисульфид молибдена &amp;lt;5%
+ функциональные добавки &amp;lt;5%</description>
+                <picture>https://ru.lukoil-shop.com/upload/iblock/b89/kvghtw8d4lx1nwurcfrzlo7kdqx12h5w.jpg</picture>
+            </offer>
+            <offer id="2" available="true">
+                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_dot_4_klass_6%3Foffer%3D18511</url>
+                <price>584.00</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>5</categoryId>
+                <name>Тормозная жидкость ЛУКОЙЛ DOT 4 class 6 0,91 кг</name>
+                <description>Высококачественная тормозная жидкость с улучшенными эксплуатационными свойствами для автомобилей оборудованных современными тормозными системами. Не оказывает отрицательного воздействия на детали тормозной системы и обладает повышенной термической стабильностью.
+ 
+ Тормозная жидкость ЛУКОЙЛ DOT 4 CLASS 6 совместима с тормозными жидкостями более низкого класса, такими как ЛУКОЙЛ DOT 3 и ЛУКОЙЛ DOT 4.
+ 
+ Для обеспечения максимальной эффективности и сохранения высоких качественных характеристик следует производить полную замену тормозной жидкости.
+ 
+ Область применения:
+ Предназначена&amp;nbsp;для использования в гидроприводах тормозных систем и сцеплений автомобилей зарубежного и отечественного производства.
+ 
+ Подходит для автомобилей оборудованных:
+ Антиблокировочной системой (ABS);
+ Системой динамической стабилизации (ESP);
+ Противобуксовочной системой (TCS);
+ Динамической системой курсовой устойчивости (ASC).
+ 
+ Спецификации:
+ SAE J 1703, J 1704
+ FMVSS 116 DOT 4
+ ISO 4925 CLASS 6</description>
+                <picture>https://ru.lukoil-shop.com/upload/iblock/a12/m24sk8xv0hd8ewz5rkc51nmlzhff3g0k.jpg</picture>
+            </offer>
+            <offer id="3" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokosmetika%2Flukoyl_antiled_razmorazhivatel_stekol%3Foffer%3D18691</url>
                 <price>387.00</price>
                 <currencyId>RUB</currencyId>
@@ -44,7 +97,7 @@
  ароматизатор &amp;lt;5%</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/078/c7j42lo2ac1b9ts0z68kueo4wd1bpeiy.jpg</picture>
             </offer>
-            <offer id="2" available="true">
+            <offer id="4" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoil_atf_iiih%3Foffer%3D19266</url>
                 <price>2049.00</price>
                 <currencyId>RUB</currencyId>
@@ -79,34 +132,7 @@
  Обеспечивает стабильность свойств на всем интервале эксплуатации.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/862/subr2ewbuo5red90fti8cjez5dpiunas.jpg</picture>
             </offer>
-            <offer id="3" available="true">
-                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_dot_4_klass_6%3Foffer%3D18511</url>
-                <price>584.00</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>5</categoryId>
-                <name>Тормозная жидкость ЛУКОЙЛ DOT 4 class 6 0,91 кг</name>
-                <description>Высококачественная тормозная жидкость с улучшенными эксплуатационными свойствами для автомобилей оборудованных современными тормозными системами. Не оказывает отрицательного воздействия на детали тормозной системы и обладает повышенной термической стабильностью.
- 
- Тормозная жидкость ЛУКОЙЛ DOT 4 CLASS 6 совместима с тормозными жидкостями более низкого класса, такими как ЛУКОЙЛ DOT 3 и ЛУКОЙЛ DOT 4.
- 
- Для обеспечения максимальной эффективности и сохранения высоких качественных характеристик следует производить полную замену тормозной жидкости.
- 
- Область применения:
- Предназначена&amp;nbsp;для использования в гидроприводах тормозных систем и сцеплений автомобилей зарубежного и отечественного производства.
- 
- Подходит для автомобилей оборудованных:
- Антиблокировочной системой (ABS);
- Системой динамической стабилизации (ESP);
- Противобуксовочной системой (TCS);
- Динамической системой курсовой устойчивости (ASC).
- 
- Спецификации:
- SAE J 1703, J 1704
- FMVSS 116 DOT 4
- ISO 4925 CLASS 6</description>
-                <picture>https://ru.lukoil-shop.com/upload/iblock/a12/m24sk8xv0hd8ewz5rkc51nmlzhff3g0k.jpg</picture>
-            </offer>
-            <offer id="4" available="true">
+            <offer id="5" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_dot_4_klass_6%3Foffer%3D18594</url>
                 <price>303.00</price>
                 <currencyId>RUB</currencyId>
@@ -132,32 +158,6 @@
  FMVSS 116 DOT 4
  ISO 4925 CLASS 6</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/4fa/okjvo63uk2tlho2pbwyjh03oq4t4enz0.jpg</picture>
-            </offer>
-            <offer id="5" available="true">
-                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fsmazka_molibdenovaya%3Foffer%3D18539</url>
-                <price>342.00</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>4</categoryId>
-                <name>Смазка молибденовая ЛУКОЙЛ 335 мл</name>
-                <description>Обеспечивает эффективную и долговечную работу разного рода механизмов, работающих при повышенных нагрузках и в условиях возможного загрязнения пылью, грязью, осадками. Обладает двойным смазывающим действием – наличие дисульфида молибдена гарантирует сохранение смазывающих свойств даже в тех случаях, когда сама смазка уже истощена или выработалась при высоких температурах. Улучшает скольжение и защищает от износа различные детали (открытые шестерни, цепи, эксцентрики, направляющие, тросы, задвижки, шарниры, звездочки, элементы подъемно-транспортного оборудования и т.п.). Устраняет скрип, предохраняет от ржавчины и коррозии, устойчива к солевым растворам и кислотным осадкам. Сохраняет неизменными смазывающие свойства в диапазоне от -40°С до +200°С. 
- 
- Указания по применению
- Перед использованием хорошо встряхнуть баллон. Нанести смазку тонким слоем на очищенные от рыхлой ржавчины и окалины обрабатываемые детали. Для труднодоступных мест использовать удлинительную трубочку.
- 
- Меры безопасности при использовании
- Использовать осторожно: воспламеняющийся аэрозоль, баллон под давлением. При нагревании возможен взрыв. Беречь от источников воспламенения, нагревания, искр, открытого огня. Не курить при использовании. Не нарушать целостности упаковки и не сжигать даже после использования. Беречь от солнечных лучей, избегать нагревания выше 50°С. 
- 
- Срок годности и хранения
- Допускается хранение при температуре от -40°С&amp;nbsp;до +50°С. Гарантийный срок хранения 36 месяцев с даты изготовления в таре производителя при соблюдении условии транспортирования и хранения.
- 
- Упаковка и состав
- аэрозоль 335 мл
- алифатический растворитель &amp;gt;30%
- пропан-бутан &amp;gt;30%
- синтетическое масло 5-15%
- мелкодисперсный дисульфид молибдена &amp;lt;5%
- функциональные добавки &amp;lt;5%</description>
-                <picture>https://ru.lukoil-shop.com/upload/iblock/b89/kvghtw8d4lx1nwurcfrzlo7kdqx12h5w.jpg</picture>
             </offer>
             <offer id="6" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Fkommercheskiy_transport%2Fmaslo_motornoe_lukoyl_avangard_mineralnoe_15w_40_api_cf_4_sg%3Foffer%3D18602</url>
