@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-06-13 19:04:43">
+<yml_catalog date="2026-06-13 21:00:22">
     <shop>
         <name>Автозапчасти и масла</name>
         <company>SOCHIAUTOPARTS</company>
@@ -17,65 +17,32 @@
         </categories>
         <offers>
             <offer id="1" available="true">
-                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fokhlazhdayushchie_zhidkosti%2Flegkovye_avtomobili%2Fantifriz_lukoyl_g11_green%3Foffer%3D18116</url>
-                <price>1213.00</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>1</categoryId>
-                <name>Антифриз ЛУКОЙЛ G11 GREEN 5 кг</name>
-                <description>Охлаждающая жидкость, разработанная по гибридной технологии. Изготавливается на основе этиленгликоля и пакета присадок, содержащего силикаты и соли органических кислот. Не содержит аминов, нитритов, и фосфатов.
- 
- Область применения:
- Предназначен для использования в системах охлаждения бензиновых и дизельных двигателей внутреннего сгорания легковых и грузовых автомобилей, автобусов и спецтехники.
- 
- Спецификации:
- VW TL 774-C (G11)
- MTU 5048
- MAN 324 NF
- Ford ESD-M97B49-A
- Fiat-Iveco 55523/1
- Renault / Nissan RNESB-00014 v.2.1
- ASTM D3306
- SAE J1034
- ГОСТ 28084-89
-
-
- Преимущества:
- Минеральные ингибиторы позволяют быстро активировать механизмы защиты системы охлаждения и двигателя от коррозии, а органические присадки продлевают срок службы антифриза.
- Защищает элементы системы охлаждения от перегрева и размораживания.
- Предотвращает образование отложений и накипи.
- Не оказывает негативного воздействия на резиновые шланги и уплотнения.
-  
- Указания по применению
- Залить в расширительный бачок системы охлаждения или горловину радиатора. Заливку следует проводить медленно во избежание образования воздушных пробок. Для обеспечения надлежащей работы охлаждающей жидкости не рекомендуется смешивать антифризы разных производителей. Перед заменой охлаждающей жидкости рекомендуется провести промывку системы охлаждения.
- 
- Срок годности и хранения
- Гарантийный срок хранения – 5 лет с даты изготовления в таре производителя при соблюдении условий транспортировки и хранения. Концентраты хранят при температуре не ниже минус 20 °С. Не рекомендуется хранить продукт в оцинкованных емкостях.</description>
-                <picture>https://ru.lukoil-shop.com/upload/iblock/180/3sayq6j1p9xdq23qw3djxkw1y1x23gg5.jpg</picture>
-            </offer>
-            <offer id="2" available="true">
-                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fochistitel_tormozov%3Foffer%3D18555</url>
-                <price>374.00</price>
+                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fsmazka_molibdenovaya%3Foffer%3D18539</url>
+                <price>342.00</price>
                 <currencyId>RUB</currencyId>
                 <categoryId>4</categoryId>
-                <name>Очиститель тормозов ЛУКОЙЛ 520 мл</name>
-                <description>Очиститель тормозов предназначен для эффективной очистки тормозных суппортов, дисков сцепления и прочих деталей автомобиля от технических загрязнений, в т.ч. жировых, масляных, копоти и фрикционной пыли. Значительно упрощает ремонт и обслуживание тормозных систем. Средство удобно в применении и не требует специальных навыков и усилий. Безопасно для резины, винила и пластика. 
+                <name>Смазка молибденовая ЛУКОЙЛ 335 мл</name>
+                <description>Обеспечивает эффективную и долговечную работу разного рода механизмов, работающих при повышенных нагрузках и в условиях возможного загрязнения пылью, грязью, осадками. Обладает двойным смазывающим действием – наличие дисульфида молибдена гарантирует сохранение смазывающих свойств даже в тех случаях, когда сама смазка уже истощена или выработалась при высоких температурах. Улучшает скольжение и защищает от износа различные детали (открытые шестерни, цепи, эксцентрики, направляющие, тросы, задвижки, шарниры, звездочки, элементы подъемно-транспортного оборудования и т.п.). Устраняет скрип, предохраняет от ржавчины и коррозии, устойчива к солевым растворам и кислотным осадкам. Сохраняет неизменными смазывающие свойства в диапазоне от -40°С до +200°С. 
  
  Указания по применению
- Перед использованием хорошо встряхнуть баллон. Обильно нанести с расстояния 20-30 см на обрабатываемую поверхность. Излишки очистителя удалить.
+ Перед использованием хорошо встряхнуть баллон. Нанести смазку тонким слоем на очищенные от рыхлой ржавчины и окалины обрабатываемые детали. Для труднодоступных мест использовать удлинительную трубочку.
  
  Меры безопасности при использовании
- Использовать осторожно: воспламеняющийся аэрозоль, баллон под давлением. При нагревании возможен взрыв. Беречь от источников воспламенения, нагревания, искр, открытого огня. Не курить при использовании. Не нарушать целостности упаковки и не сжигать даже после использования. Беречь от солнечных лучей, избегать нагревания выше 50°С.
+ Использовать осторожно: воспламеняющийся аэрозоль, баллон под давлением. При нагревании возможен взрыв. Беречь от источников воспламенения, нагревания, искр, открытого огня. Не курить при использовании. Не нарушать целостности упаковки и не сжигать даже после использования. Беречь от солнечных лучей, избегать нагревания выше 50°С. 
  
  Срок годности и хранения
  Допускается хранение при температуре от -40°С&amp;nbsp;до +50°С. Гарантийный срок хранения 36 месяцев с даты изготовления в таре производителя при соблюдении условии транспортирования и хранения.
  
  Упаковка и состав
- аэрозоль 520 мл
- органические растворители &amp;gt;30%
- CO2 &amp;lt;5%</description>
-                <picture>https://ru.lukoil-shop.com/upload/iblock/0d2/ss2zfn0v9uhdctfdpxv0onxu7yruxca3.jpg</picture>
+ аэрозоль 335 мл
+ алифатический растворитель &amp;gt;30%
+ пропан-бутан &amp;gt;30%
+ синтетическое масло 5-15%
+ мелкодисперсный дисульфид молибдена &amp;lt;5%
+ функциональные добавки &amp;lt;5%</description>
+                <picture>https://ru.lukoil-shop.com/upload/iblock/b89/kvghtw8d4lx1nwurcfrzlo7kdqx12h5w.jpg</picture>
             </offer>
-            <offer id="3" available="true">
+            <offer id="2" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_dot_4_klass_6%3Foffer%3D18511</url>
                 <price>584.00</price>
                 <currencyId>RUB</currencyId>
@@ -102,77 +69,7 @@
  ISO 4925 CLASS 6</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/a12/m24sk8xv0hd8ewz5rkc51nmlzhff3g0k.jpg</picture>
             </offer>
-            <offer id="4" available="true">
-                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_0w_20%3Foffer%3D30702</url>
-                <price>4595.00</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>2</categoryId>
-                <name>Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 0W-20 4 л</name>
-                <description>Синтетическое моторное масло класса &quot;Mid-SAPS&quot; с пониженным содержанием сульфатной золы, совместимое с современными бензиновыми и дизельными двигателями, в том числе оборудованными устройствами доочистки выхлопных газов (DPF, GPF, TWC и др.). Производится с применением передовой технологии DuraMax®.
- 
- Область применения:
- Разработано для 4-цилиндровых бензиновых и дизельных двигателей легковых автомобилей, эксплуатируемых в тяжелых условиях и требующих применения масел с допуском VOLVO VCC RBS0-2AE. Также продукт подходит для двигателей, требующих использование масла с уровнем свойств ACEA C5 и/или API SP и класса вязкости SAE 0W-20.
- 
- Спецификации:
-
-	ACEA C5
-	
-	API SP
-	
-	VOLVO VCC-RBS0-2AE
-	
-	Fiat 9.55535-DSX
-
- 
- Преимущества:
-
- Легкий пуск
-
- Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.
- 
- Максимальная защита
- Максимальная защита двигателя от износа в жестких условиях городского цикла и в условиях повышенных нагрузок.
- 
- Совместимость с системами доочистки
- Низкий уровень зольности (Mid SAPS) сокращает образование неорганических отложений в фильтрах сажевых частиц и каталитических нейтрализаторах.</description>
-                <picture>https://ru.lukoil-shop.com/upload/iblock/90e/mpgenm74yfkpbsuliiopuavhg5hgcz25.png</picture>
-            </offer>
-            <offer id="5" available="true">
-                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_0w_30%3Foffer%3D30712</url>
-                <price>4580.00</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>2</categoryId>
-                <name>Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 0W-30 4 л</name>
-                <description>Синтетическое моторное масло класса &quot;Mid-SAPS&quot; с пониженным содержанием сульфатной золы, совместимое с современными бензиновыми и дизельными двигателями, в том числе оборудованными устройствами доочистки выхлопных газов (DPF, GPF, TWC и др.). Производится с применением передовой технологии DuraMax®.
- 
- Область применения:
- Рекомендовано для применения в бензиновых двигателях и дизельных двигателях с сажевым фильтром, требующих использования масла с уровнем свойств ACEA C2 и/или API SP и класса вязкости SAE 0W-30.
- 
- Спецификации:
-
-	ACEA C2
-	
-	API SP
-	ILSAC GF-6A
-
- 
- Преимущества:
-
- Легкий пуск
-
- Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.
- 
- Максимальная защита
- Максимальная защита двигателя от износа в жестких условиях городского цикла и в условиях повышенных нагрузок.
- 
- Совместимость с системами доочистки
- Совместимо с системами доочистки выхлопных газов, чувствительных к уровню сульфатной зольности масел.
- 
- Экономия топлива
-Повышенная топливная экономичность за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
-                <picture>https://ru.lukoil-shop.com/upload/iblock/dbc/vj2fs2s4m9r3md4zp75vcrdnb7lkuedk.png</picture>
-            </offer>
-            <offer id="6" available="true">
+            <offer id="3" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_40%3Foffer%3D30720</url>
                 <price>3249.00</price>
                 <currencyId>RUB</currencyId>
@@ -209,7 +106,7 @@
 Обладает малой зависимостью вязкости от температуры.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/178/xet38spw9o9i5yb2s19f2i89l7awhp90.png</picture>
             </offer>
-            <offer id="7" available="true">
+            <offer id="4" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_40%3Foffer%3D32226</url>
                 <price>4053.00</price>
                 <currencyId>RUB</currencyId>
@@ -246,7 +143,136 @@
 Обладает малой зависимостью вязкости от температуры.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/f80/j9olnzfc9lzo6qkuivc87eyfgb6kd0y9.png</picture>
             </offer>
+            <offer id="5" available="true">
+                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fokhlazhdayushchie_zhidkosti%2Flegkovye_avtomobili%2Fantifriz_lukoyl_g11_green%3Foffer%3D18116</url>
+                <price>1213.00</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>1</categoryId>
+                <name>Антифриз ЛУКОЙЛ G11 GREEN 5 кг</name>
+                <description>Охлаждающая жидкость, разработанная по гибридной технологии. Изготавливается на основе этиленгликоля и пакета присадок, содержащего силикаты и соли органических кислот. Не содержит аминов, нитритов, и фосфатов.
+ 
+ Область применения:
+ Предназначен для использования в системах охлаждения бензиновых и дизельных двигателей внутреннего сгорания легковых и грузовых автомобилей, автобусов и спецтехники.
+ 
+ Спецификации:
+ VW TL 774-C (G11)
+ MTU 5048
+ MAN 324 NF
+ Ford ESD-M97B49-A
+ Fiat-Iveco 55523/1
+ Renault / Nissan RNESB-00014 v.2.1
+ ASTM D3306
+ SAE J1034
+ ГОСТ 28084-89
+
+
+ Преимущества:
+ Минеральные ингибиторы позволяют быстро активировать механизмы защиты системы охлаждения и двигателя от коррозии, а органические присадки продлевают срок службы антифриза.
+ Защищает элементы системы охлаждения от перегрева и размораживания.
+ Предотвращает образование отложений и накипи.
+ Не оказывает негативного воздействия на резиновые шланги и уплотнения.
+  
+ Указания по применению
+ Залить в расширительный бачок системы охлаждения или горловину радиатора. Заливку следует проводить медленно во избежание образования воздушных пробок. Для обеспечения надлежащей работы охлаждающей жидкости не рекомендуется смешивать антифризы разных производителей. Перед заменой охлаждающей жидкости рекомендуется провести промывку системы охлаждения.
+ 
+ Срок годности и хранения
+ Гарантийный срок хранения – 5 лет с даты изготовления в таре производителя при соблюдении условий транспортировки и хранения. Концентраты хранят при температуре не ниже минус 20 °С. Не рекомендуется хранить продукт в оцинкованных емкостях.</description>
+                <picture>https://ru.lukoil-shop.com/upload/iblock/180/3sayq6j1p9xdq23qw3djxkw1y1x23gg5.jpg</picture>
+            </offer>
+            <offer id="6" available="true">
+                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fochistitel_tormozov%3Foffer%3D18555</url>
+                <price>374.00</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>4</categoryId>
+                <name>Очиститель тормозов ЛУКОЙЛ 520 мл</name>
+                <description>Очиститель тормозов предназначен для эффективной очистки тормозных суппортов, дисков сцепления и прочих деталей автомобиля от технических загрязнений, в т.ч. жировых, масляных, копоти и фрикционной пыли. Значительно упрощает ремонт и обслуживание тормозных систем. Средство удобно в применении и не требует специальных навыков и усилий. Безопасно для резины, винила и пластика. 
+ 
+ Указания по применению
+ Перед использованием хорошо встряхнуть баллон. Обильно нанести с расстояния 20-30 см на обрабатываемую поверхность. Излишки очистителя удалить.
+ 
+ Меры безопасности при использовании
+ Использовать осторожно: воспламеняющийся аэрозоль, баллон под давлением. При нагревании возможен взрыв. Беречь от источников воспламенения, нагревания, искр, открытого огня. Не курить при использовании. Не нарушать целостности упаковки и не сжигать даже после использования. Беречь от солнечных лучей, избегать нагревания выше 50°С.
+ 
+ Срок годности и хранения
+ Допускается хранение при температуре от -40°С&amp;nbsp;до +50°С. Гарантийный срок хранения 36 месяцев с даты изготовления в таре производителя при соблюдении условии транспортирования и хранения.
+ 
+ Упаковка и состав
+ аэрозоль 520 мл
+ органические растворители &amp;gt;30%
+ CO2 &amp;lt;5%</description>
+                <picture>https://ru.lukoil-shop.com/upload/iblock/0d2/ss2zfn0v9uhdctfdpxv0onxu7yruxca3.jpg</picture>
+            </offer>
+            <offer id="7" available="true">
+                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_0w_20%3Foffer%3D30702</url>
+                <price>4595.00</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>2</categoryId>
+                <name>Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 0W-20 4 л</name>
+                <description>Синтетическое моторное масло класса &quot;Mid-SAPS&quot; с пониженным содержанием сульфатной золы, совместимое с современными бензиновыми и дизельными двигателями, в том числе оборудованными устройствами доочистки выхлопных газов (DPF, GPF, TWC и др.). Производится с применением передовой технологии DuraMax®.
+ 
+ Область применения:
+ Разработано для 4-цилиндровых бензиновых и дизельных двигателей легковых автомобилей, эксплуатируемых в тяжелых условиях и требующих применения масел с допуском VOLVO VCC RBS0-2AE. Также продукт подходит для двигателей, требующих использование масла с уровнем свойств ACEA C5 и/или API SP и класса вязкости SAE 0W-20.
+ 
+ Спецификации:
+
+	ACEA C5
+	
+	API SP
+	
+	VOLVO VCC-RBS0-2AE
+	
+	Fiat 9.55535-DSX
+
+ 
+ Преимущества:
+
+ Легкий пуск
+
+ Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.
+ 
+ Максимальная защита
+ Максимальная защита двигателя от износа в жестких условиях городского цикла и в условиях повышенных нагрузок.
+ 
+ Совместимость с системами доочистки
+ Низкий уровень зольности (Mid SAPS) сокращает образование неорганических отложений в фильтрах сажевых частиц и каталитических нейтрализаторах.</description>
+                <picture>https://ru.lukoil-shop.com/upload/iblock/90e/mpgenm74yfkpbsuliiopuavhg5hgcz25.png</picture>
+            </offer>
             <offer id="8" available="true">
+                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_0w_30%3Foffer%3D30712</url>
+                <price>4580.00</price>
+                <currencyId>RUB</currencyId>
+                <categoryId>2</categoryId>
+                <name>Масло моторное LUKOIL GENESIS ARMORTECH DPF/GPF 0W-30 4 л</name>
+                <description>Синтетическое моторное масло класса &quot;Mid-SAPS&quot; с пониженным содержанием сульфатной золы, совместимое с современными бензиновыми и дизельными двигателями, в том числе оборудованными устройствами доочистки выхлопных газов (DPF, GPF, TWC и др.). Производится с применением передовой технологии DuraMax®.
+ 
+ Область применения:
+ Рекомендовано для применения в бензиновых двигателях и дизельных двигателях с сажевым фильтром, требующих использования масла с уровнем свойств ACEA C2 и/или API SP и класса вязкости SAE 0W-30.
+ 
+ Спецификации:
+
+	ACEA C2
+	
+	API SP
+	ILSAC GF-6A
+
+ 
+ Преимущества:
+
+ Легкий пуск
+
+ Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.
+ 
+ Максимальная защита
+ Максимальная защита двигателя от износа в жестких условиях городского цикла и в условиях повышенных нагрузок.
+ 
+ Совместимость с системами доочистки
+ Совместимо с системами доочистки выхлопных газов, чувствительных к уровню сульфатной зольности масел.
+ 
+ Экономия топлива
+Повышенная топливная экономичность за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
+                <picture>https://ru.lukoil-shop.com/upload/iblock/dbc/vj2fs2s4m9r3md4zp75vcrdnb7lkuedk.png</picture>
+            </offer>
+            <offer id="9" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_0w_20%3Foffer%3D32223</url>
                 <price>5731.00</price>
                 <currencyId>RUB</currencyId>
@@ -281,7 +307,7 @@
  Низкий уровень зольности (Mid SAPS) сокращает образование неорганических отложений в фильтрах сажевых частиц и каталитических нейтрализаторах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/978/wdg2bktjtc8i3nj5e3ydfzidq1in0gfq.png</picture>
             </offer>
-            <offer id="9" available="true">
+            <offer id="10" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_0w_30%3Foffer%3D32224</url>
                 <price>5712.00</price>
                 <currencyId>RUB</currencyId>
@@ -316,7 +342,7 @@
 Повышенная топливная экономичность за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/ec8/44t8lqjt5p5gsotasw38omt4q94f495z.png</picture>
             </offer>
-            <offer id="10" available="true">
+            <offer id="11" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Fmalorazmernaya_tekhnika%2Fmaslo_motornoe_lukoyl_moto_4t_polusinteticheskoe_10w_40_sl%3Foffer%3D18044</url>
                 <price>3022.00</price>
                 <currencyId>RUB</currencyId>
@@ -343,7 +369,7 @@
 	 Исключительная стойкость загустителя к деструкции обеспечивает стабильную вязкость в течение всего срока эксплуатации.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/8f5/rrzjruq8plk2m7y35szebqebua0sqgt9.jpg</picture>
             </offer>
-            <offer id="11" available="true">
+            <offer id="12" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftransmissionnye_masla%2Flegkovye_avtomobili%2Fmaslo_transmissionnoe_lukoil_dctf_fe%3Foffer%3D21165</url>
                 <price>1863.00</price>
                 <currencyId>RUB</currencyId>
@@ -371,7 +397,7 @@
  Эффективная защита компонентов трансмиссии благодаря использованию пакета присадок с увеличенным запасом противоизносных свойств.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/6a3/n7hu5e8wpq7cvnxty2ujik7qbazn75fy.jpg</picture>
             </offer>
-            <offer id="12" available="true">
+            <offer id="13" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Ftormoznye_zhidkosti%2Flegkovye_avtomobili%2Flukoyl_tormoznaya_zhidkost_dot_4_klass_6%3Foffer%3D18594</url>
                 <price>303.00</price>
                 <currencyId>RUB</currencyId>
@@ -398,7 +424,7 @@
  ISO 4925 CLASS 6</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/4fa/okjvo63uk2tlho2pbwyjh03oq4t4enz0.jpg</picture>
             </offer>
-            <offer id="13" available="true">
+            <offer id="14" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_cn_5w_40_api_sq%3Foffer%3D30840</url>
                 <price>2999.00</price>
                 <currencyId>RUB</currencyId>
@@ -428,7 +454,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/7cf/ya7d7aa663xoaz38cx99lv3juibhsjv0.png</picture>
             </offer>
-            <offer id="14" available="true">
+            <offer id="15" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Fstekloomyvayushchaya_zhidkost%2Fstekloomyvayushchaya_zhidkost_letnyaya_lukoyl_s_aromatom_layma%3Foffer%3D31047</url>
                 <price>279.00</price>
                 <currencyId>RUB</currencyId>
@@ -441,7 +467,7 @@
 	 Не содержит в своем составе метиловый и этиловый спирты.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/165/prufb6v3csdwhc6kt1uymk1a3f7ozppk.png</picture>
             </offer>
-            <offer id="15" available="true">
+            <offer id="16" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_cn_5w_40_api_sq%3Foffer%3D32227</url>
                 <price>3552.00</price>
                 <currencyId>RUB</currencyId>
@@ -471,7 +497,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/bbe/5vieftzggq2xabuv2cgygcka73zxser3.jpg</picture>
             </offer>
-            <offer id="16" available="true">
+            <offer id="17" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_luxe_semi_synthetic_10w_40_api_sl_cf%3Foffer%3D18085</url>
                 <price>1552.00</price>
                 <currencyId>RUB</currencyId>
@@ -496,7 +522,7 @@
 	 Способствует снижению количества отложений в двигателе и поддерживает двигатель чистым на протяжении всего срока службы масла.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/88b/nu9dz6x8nw5h0kyqrtlv1w8nc9h9awzd.jpg</picture>
             </offer>
-            <offer id="17" available="true">
+            <offer id="18" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoyl_lyuks_turbo_dizel_10w_40_cf%3Foffer%3D18269</url>
                 <price>595.00</price>
                 <currencyId>RUB</currencyId>
@@ -521,7 +547,7 @@
 	 Предотвращает образование высоко и низкотемпературных отложений в двигателе.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/155/r84v2iu7cuimtjd9qx8sawa7gt1yvsqv.jpg</picture>
             </offer>
-            <offer id="18" available="true">
+            <offer id="19" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_luxe_synthetic_5w_40_api_sn_cf%3Foffer%3D18081</url>
                 <price>1099.00</price>
                 <currencyId>RUB</currencyId>
@@ -557,7 +583,7 @@
  Обеспечивает превосходную защиту от износа в жёстких условиях эксплуатации.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/4ad/tlxwejknvxok4kiqb4jzsu0jybqogboz.jpg</picture>
             </offer>
-            <offer id="19" available="true">
+            <offer id="20" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_luxe_synthetic_5w_30_api_sl_cf%3Foffer%3D18084</url>
                 <price>1099.00</price>
                 <currencyId>RUB</currencyId>
@@ -589,7 +615,7 @@
  Отличные низкотемпературные свойства обеспечивают быстрый пуск двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/78f/1w3ke79sgy2g4wmae7dnfuww18orx9n7.jpg</picture>
             </offer>
-            <offer id="20" available="true">
+            <offer id="21" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_0w_40%3Foffer%3D18426</url>
                 <price>1544.00</price>
                 <currencyId>RUB</currencyId>
@@ -623,7 +649,7 @@
  Улучшенная стойкость к термическому окислению благодаря комбинации высокооще-лочного пакета присадок и полиальфаолефиновой (ПАО) базовой основы.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/5fe/kh18bbntwuhz8r2z7abi4c8q0sy6kvll.jpg</picture>
             </offer>
-            <offer id="21" available="true">
+            <offer id="22" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_gc_5w_30%3Foffer%3D18453</url>
                 <price>4799.00</price>
                 <currencyId>RUB</currencyId>
@@ -654,7 +680,7 @@
  За счёт входящих в состав масла полиальфаолефинов (ПАО) обладает превосходными низкотемпературными свойствами и низкой испаряемостью.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/875/4tjlvsbdt1lb38c9cd37dl9l8nq2j4z2.jpg</picture>
             </offer>
-            <offer id="22" available="true">
+            <offer id="23" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_40%3Foffer%3D18468</url>
                 <price>2799.00</price>
                 <currencyId>RUB</currencyId>
@@ -686,7 +712,7 @@
  Высокие противозадирные и противоизносные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/103/7w6ywufxd5iykyqaq66vtsuny4gubwzu.jpg</picture>
             </offer>
-            <offer id="23" available="true">
+            <offer id="24" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_luxe_synthetic_5w_40_api_sn_cf%3Foffer%3D18080</url>
                 <price>2999.00</price>
                 <currencyId>RUB</currencyId>
@@ -722,7 +748,7 @@
  Обеспечивает превосходную защиту от износа в жёстких условиях эксплуатации.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/8ed/zflq7ou1yr8zcg7yghqf530phr8fz0hy.jpg</picture>
             </offer>
-            <offer id="24" available="true">
+            <offer id="25" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_luxe_semi_synthetic_5w_40_api_sl_cf%3Foffer%3D18089</url>
                 <price>909.00</price>
                 <currencyId>RUB</currencyId>
@@ -747,7 +773,7 @@
  Предотвращает образование высоко- и низкотемпературных отложений в двигателе.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/44d/wftmtyf0q8gya5p0fnhs483ob2c60tt0.jpg</picture>
             </offer>
-            <offer id="25" available="true">
+            <offer id="26" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_5w_40%3Foffer%3D18411</url>
                 <price>3499.00</price>
                 <currencyId>RUB</currencyId>
@@ -786,7 +812,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/c10/sini19iciz32d2dibzcq0ox4rw5e6vhe.png</picture>
             </offer>
-            <offer id="26" available="true">
+            <offer id="27" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_fd_sinteticheskoe_5w_30%3Foffer%3D18418</url>
                 <price>3549.00</price>
                 <currencyId>RUB</currencyId>
@@ -820,7 +846,7 @@
  Повышенная топливная экономичность за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/a4e/f0vg11r1f49ko0ixxg5bogf9ck2xz9u7.jpg</picture>
             </offer>
-            <offer id="27" available="true">
+            <offer id="28" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D18465</url>
                 <price>2499.00</price>
                 <currencyId>RUB</currencyId>
@@ -852,7 +878,7 @@
  Высокое щелочное число препятствует образованию отложений и продлевает срок службы масла.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/5a4/2k1jh1pio2lyv8kp9uulita4zms4wmjz.jpg</picture>
             </offer>
-            <offer id="28" available="true">
+            <offer id="29" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoyl_lyuks_turbo_dizel_10w_40_cf%3Foffer%3D18572</url>
                 <price>1903.00</price>
                 <currencyId>RUB</currencyId>
@@ -877,7 +903,7 @@
 	 Предотвращает образование высоко и низкотемпературных отложений в двигателе.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/6a7/93q2rdebs84l0z9vxfg2zz0ua5snkb7q.jpg</picture>
             </offer>
-            <offer id="29" available="true">
+            <offer id="30" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_cn_5w_40_maslo_motornoe_sinteticheskoe%3Foffer%3D18684</url>
                 <price>1249.00</price>
                 <currencyId>RUB</currencyId>
@@ -907,7 +933,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/13e/w4sol727hd32uqm0d9nme79laqxwg9bn.jpg</picture>
             </offer>
-            <offer id="30" available="true">
+            <offer id="31" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_sinteticheskoe_5w_40%3Foffer%3D27115</url>
                 <price>3249.00</price>
                 <currencyId>RUB</currencyId>
@@ -945,7 +971,7 @@
  Обладает малой зависимостью вязкости от температуры.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/5ba/ceos88cggzbufyp4a49be3x1sqdbgh8d.jpg</picture>
             </offer>
-            <offer id="31" available="true">
+            <offer id="32" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_5w_30%3Foffer%3D27750</url>
                 <price>1449.00</price>
                 <currencyId>RUB</currencyId>
@@ -975,7 +1001,7 @@
  Экономия топлива достигается за счёт оптимальной вязкости жидкости.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/078/vwjqabktxun7vpbzvqufm257v8jh80qi.jpg</picture>
             </offer>
-            <offer id="32" available="true">
+            <offer id="33" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_0w_30%3Foffer%3D30711</url>
                 <price>1432.00</price>
                 <currencyId>RUB</currencyId>
@@ -1010,7 +1036,7 @@
 Повышенная топливная экономичность за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/f7e/f3nzei9dij5nb87eiet6rgcjsof8qk6v.png</picture>
             </offer>
-            <offer id="33" available="true">
+            <offer id="34" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_30%3Foffer%3D30715</url>
                 <price>3385.00</price>
                 <currencyId>RUB</currencyId>
@@ -1046,7 +1072,7 @@
 Экономия топлива достигается за счёт оптимальной вязкости жидкости.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/816/uay52biraxa7uuqmtaw4qfil51rm2yz2.png</picture>
             </offer>
-            <offer id="34" available="true">
+            <offer id="35" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_luxe_semi_synthetic_10w_40_api_sl_cf%3Foffer%3D18086</url>
                 <price>485.00</price>
                 <currencyId>RUB</currencyId>
@@ -1071,7 +1097,7 @@
 	 Способствует снижению количества отложений в двигателе и поддерживает двигатель чистым на протяжении всего срока службы масла.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/813/4t6pgeracbgy6qmynhpnn4i3ats6lqj7.jpg</picture>
             </offer>
-            <offer id="35" available="true">
+            <offer id="36" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_luxe_synthetic_5w_30_api_sl_cf%3Foffer%3D18083</url>
                 <price>2999.00</price>
                 <currencyId>RUB</currencyId>
@@ -1103,7 +1129,7 @@
  Отличные низкотемпературные свойства обеспечивают быстрый пуск двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/a98/idmwx52uexl3zc011xjt3hzz1o2vny28.jpg</picture>
             </offer>
-            <offer id="36" available="true">
+            <offer id="37" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_luxe_semi_synthetic_5w_40_api_sl_cf%3Foffer%3D18088</url>
                 <price>1999.00</price>
                 <currencyId>RUB</currencyId>
@@ -1128,7 +1154,7 @@
  Предотвращает образование высоко- и низкотемпературных отложений в двигателе.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/c38/1okmk8ks0a0hh6kiikhrl81tehhcn9z6.jpg</picture>
             </offer>
-            <offer id="37" available="true">
+            <offer id="38" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_5w_30%3Foffer%3D18420</url>
                 <price>1449.00</price>
                 <currencyId>RUB</currencyId>
@@ -1165,7 +1191,7 @@
  Специально подобранная рецептура минимизирует расход масла на угар.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/39d/cy2yzbnnwdnbfmwrhhqrvrnx0616y3b5.jpg</picture>
             </offer>
-            <offer id="38" available="true">
+            <offer id="39" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_5w_30%3Foffer%3D18421</url>
                 <price>3099.00</price>
                 <currencyId>RUB</currencyId>
@@ -1202,7 +1228,7 @@
  Специально подобранная рецептура минимизирует расход масла на угар.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/606/zonbatc2fc4kzy6q8csx9zkxgvgmvl6t.jpg</picture>
             </offer>
-            <offer id="39" available="true">
+            <offer id="40" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dx1_sinteticheskoe_5w_30%3Foffer%3D18459</url>
                 <price>3228.00</price>
                 <currencyId>RUB</currencyId>
@@ -1239,7 +1265,7 @@
  Обладает обратной совместимостью с предыдущими категориями API.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/947/9zdxy9a873pewu42sz2grys9xns1ao5d.jpg</picture>
             </offer>
-            <offer id="40" available="true">
+            <offer id="41" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_30%3Foffer%3D18590</url>
                 <price>753.00</price>
                 <currencyId>RUB</currencyId>
@@ -1267,7 +1293,7 @@
  Повышенная топливная экономичность за счет за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/8d7/p78uifxjqsusy64qp7lt2z00s8e28itq.jpg</picture>
             </offer>
-            <offer id="41" available="true">
+            <offer id="42" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_gc_0w_20_maslo_motornoe_sinteticheskoe%3Foffer%3D18626</url>
                 <price>5765.00</price>
                 <currencyId>RUB</currencyId>
@@ -1299,7 +1325,7 @@
  Совместимо с системами доочистки выхлопных газов, чувствительных к уровню сульфатной зольности масел.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/ee2/tnwz2rbzx4s1ruhtzo134o12lt2q4714.jpg</picture>
             </offer>
-            <offer id="42" available="true">
+            <offer id="43" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_5w_40%3Foffer%3D18410</url>
                 <price>1499.00</price>
                 <currencyId>RUB</currencyId>
@@ -1338,7 +1364,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/a8d/btv4ebt40jz6uk9n6s1vkn7s5xrxc0e8.png</picture>
             </offer>
-            <offer id="43" available="true">
+            <offer id="44" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_30%3Foffer%3D18455</url>
                 <price>1099.00</price>
                 <currencyId>RUB</currencyId>
@@ -1377,7 +1403,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/37d/79u00zfjiii60joutvg1zbw22ky000gi.jpg</picture>
             </offer>
-            <offer id="44" available="true">
+            <offer id="45" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_racing_sinteticheskoe_5w_50%3Foffer%3D18461</url>
                 <price>1785.00</price>
                 <currencyId>RUB</currencyId>
@@ -1403,7 +1429,7 @@
  Обеспечивает надежную защиту высокооборотистых турбированных двигателей.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/9e4/l9z2hne6xhthe0audrnrnjt2s8abmfe7.jpg</picture>
             </offer>
-            <offer id="45" available="true">
+            <offer id="46" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_racing_sinteticheskoe_5w_50%3Foffer%3D18462</url>
                 <price>4396.00</price>
                 <currencyId>RUB</currencyId>
@@ -1429,7 +1455,7 @@
  Обеспечивает надежную защиту высокооборотистых турбированных двигателей.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/8be/tcp5629wh5gd3ikz63hz3yiwty5v84ys.jpg</picture>
             </offer>
-            <offer id="46" available="true">
+            <offer id="47" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_diesel_polusinteticheskoe_5w_30%3Foffer%3D18477</url>
                 <price>2952.00</price>
                 <currencyId>RUB</currencyId>
@@ -1456,7 +1482,7 @@
  Отличные антиокислительные и антикоррозионные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/54a/pojph739c1kb9ivxtb9cpd2shic483ui.jpg</picture>
             </offer>
-            <offer id="47" available="true">
+            <offer id="48" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_5w_40_api_sq%3Foffer%3D26665</url>
                 <price>1499.00</price>
                 <currencyId>RUB</currencyId>
@@ -1519,7 +1545,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/8db/c62yz38in5tyhwc9lhld22zxy3i3a2oy.jpg</picture>
             </offer>
-            <offer id="48" available="true">
+            <offer id="49" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_hk_sinteticheskoe_5w_30%3Foffer%3D18414</url>
                 <price>1199.00</price>
                 <currencyId>RUB</currencyId>
@@ -1545,7 +1571,7 @@
  Превосходные низкотемпературные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/050/dnis9a9kk6qsc7c2tboeo4x0v0p022dn.jpg</picture>
             </offer>
-            <offer id="49" available="true">
+            <offer id="50" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_0w_40%3Foffer%3D18427</url>
                 <price>4941.00</price>
                 <currencyId>RUB</currencyId>
@@ -1579,7 +1605,7 @@
  Улучшенная стойкость к термическому окислению благодаря комбинации высокооще-лочного пакета присадок и полиальфаолефиновой (ПАО) базовой основы.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/31c/mdf3r63j20567cxakhq1ozhcudnwsay0.jpg</picture>
             </offer>
-            <offer id="50" available="true">
+            <offer id="51" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_gc_5w_30%3Foffer%3D18452</url>
                 <price>1849.00</price>
                 <currencyId>RUB</currencyId>
@@ -1610,7 +1636,7 @@
  За счёт входящих в состав масла полиальфаолефинов (ПАО) обладает превосходными низкотемпературными свойствами и низкой испаряемостью.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/909/mocmj8j0mojbhd7g83ys45go2d413l2h.jpg</picture>
             </offer>
-            <offer id="51" available="true">
+            <offer id="52" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_40%3Foffer%3D30718</url>
                 <price>1016.00</price>
                 <currencyId>RUB</currencyId>
@@ -1647,7 +1673,7 @@
 Обладает малой зависимостью вязкости от температуры.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/274/0j6m70xf0lc320ermq1mui783pgcub6v.png</picture>
             </offer>
-            <offer id="52" available="true">
+            <offer id="53" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_cn_5w_40_api_sq%3Foffer%3D30839</url>
                 <price>1249.00</price>
                 <currencyId>RUB</currencyId>
@@ -1677,7 +1703,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/d58/59kzugu2fbxrgh7enymckec9xx90sg9n.png</picture>
             </offer>
-            <offer id="53" available="true">
+            <offer id="54" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_20%3Foffer%3D18423</url>
                 <price>1499.00</price>
                 <currencyId>RUB</currencyId>
@@ -1716,7 +1742,7 @@
  Продлевает срок службы каталитических систем очистки выхлопных газов.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/860/e8koezrndyxywk07a4ekbp9acco3h19o.jpg</picture>
             </offer>
-            <offer id="54" available="true">
+            <offer id="55" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_30%3Foffer%3D18456</url>
                 <price>3517.00</price>
                 <currencyId>RUB</currencyId>
@@ -1755,7 +1781,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/d94/ylko3e68dgpsl8t4ehlsn7rdk49gd0zq.jpg</picture>
             </offer>
-            <offer id="55" available="true">
+            <offer id="56" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dx1_sinteticheskoe_5w_30%3Foffer%3D18458</url>
                 <price>1009.00</price>
                 <currencyId>RUB</currencyId>
@@ -1792,7 +1818,7 @@
  Обладает обратной совместимостью с предыдущими категориями API.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/9d0/wh4xb1vxgjn451dnb62rocue4ut1erlz.jpg</picture>
             </offer>
-            <offer id="56" available="true">
+            <offer id="57" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_40%3Foffer%3D18467</url>
                 <price>1099.00</price>
                 <currencyId>RUB</currencyId>
@@ -1824,7 +1850,7 @@
  Высокие противозадирные и противоизносные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/828/7sgunjxsi8gjlvciyfxsioqqaax4aean.jpg</picture>
             </offer>
-            <offer id="57" available="true">
+            <offer id="58" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_30%3Foffer%3D18471</url>
                 <price>2408.00</price>
                 <currencyId>RUB</currencyId>
@@ -1852,7 +1878,7 @@
  Повышенная топливная экономичность за счет за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/887/797lwnbbix4li5ee5v3xtza6pbmk0sn4.jpg</picture>
             </offer>
-            <offer id="58" available="true">
+            <offer id="59" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fsmazka_universalnaya%3Foffer%3D18535</url>
                 <price>351.00</price>
                 <currencyId>RUB</currencyId>
@@ -1876,7 +1902,7 @@
  пропан-бутан &amp;gt;30%</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/d52/c7t752sd3wtobtjpoa6jjpkuhnvohk7g.jpg</picture>
             </offer>
-            <offer id="59" available="true">
+            <offer id="60" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_gc_0w_20_maslo_motornoe_sinteticheskoe%3Foffer%3D18627</url>
                 <price>1802.00</price>
                 <currencyId>RUB</currencyId>
@@ -1908,7 +1934,7 @@
  Совместимо с системами доочистки выхлопных газов, чувствительных к уровню сульфатной зольности масел.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/f8d/v6c8bdfs6lmm0o87w52n1o60jliglfmd.jpg</picture>
             </offer>
-            <offer id="60" available="true">
+            <offer id="61" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_hk_sinteticheskoe_5w_30%3Foffer%3D18415</url>
                 <price>3299.00</price>
                 <currencyId>RUB</currencyId>
@@ -1934,7 +1960,7 @@
  Превосходные низкотемпературные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/18f/zyjtzh9u70y2t7ahyhattuznw8jbwfsg.jpg</picture>
             </offer>
-            <offer id="61" available="true">
+            <offer id="62" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_20%3Foffer%3D18424</url>
                 <price>3999.00</price>
                 <currencyId>RUB</currencyId>
@@ -1973,7 +1999,7 @@
  Продлевает срок службы каталитических систем очистки выхлопных газов.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/420/zl222cl1t53vu0od4vms9791tk52o4d0.jpg</picture>
             </offer>
-            <offer id="62" available="true">
+            <offer id="63" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_5w_30%3Foffer%3D18450</url>
                 <price>3299.00</price>
                 <currencyId>RUB</currencyId>
@@ -2003,7 +2029,7 @@
  Экономия топлива достигается за счёт оптимальной вязкости жидкости.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/8d7/k29uacl69c8e4uokbi5d0kec3z9l3nbt.jpg</picture>
             </offer>
-            <offer id="63" available="true">
+            <offer id="64" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D18464</url>
                 <price>849.00</price>
                 <currencyId>RUB</currencyId>
@@ -2035,7 +2061,7 @@
  Высокое щелочное число препятствует образованию отложений и продлевает срок службы масла.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/a5a/z9wy16zi2defilnznjizzzcs04m32gxz.jpg</picture>
             </offer>
-            <offer id="64" available="true">
+            <offer id="65" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_cn_5w_40_maslo_motornoe_sinteticheskoe%3Foffer%3D18685</url>
                 <price>2999.00</price>
                 <currencyId>RUB</currencyId>
@@ -2065,7 +2091,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/ec6/2ghpuy3b9qsnsfdq3gs6ne4bdui3gd87.jpg</picture>
             </offer>
-            <offer id="65" available="true">
+            <offer id="66" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_sinteticheskoe_5w_40%3Foffer%3D29064</url>
                 <price>1016.00</price>
                 <currencyId>RUB</currencyId>
@@ -2103,7 +2129,7 @@
  Обладает малой зависимостью вязкости от температуры.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/a19/3fdh19146v51hqqsdpqml6kvuiijbkwc.png</picture>
             </offer>
-            <offer id="66" available="true">
+            <offer id="67" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_fd_sinteticheskoe_5w_30%3Foffer%3D18417</url>
                 <price>1399.00</price>
                 <currencyId>RUB</currencyId>
@@ -2137,7 +2163,7 @@
  Повышенная топливная экономичность за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/22c/20lm4jl44qb1d4jhisauczsubv3o6vo0.jpg</picture>
             </offer>
-            <offer id="67" available="true">
+            <offer id="68" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_diesel_polusinteticheskoe_5w_30%3Foffer%3D18476</url>
                 <price>923.00</price>
                 <currencyId>RUB</currencyId>
@@ -2164,7 +2190,7 @@
  Отличные антиокислительные и антикоррозионные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/6e2/ycq1334bnm5viv9t4lnnsrqc9mei9hd1.jpg</picture>
             </offer>
-            <offer id="68" available="true">
+            <offer id="69" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_5w_40_api_sq%3Foffer%3D26800</url>
                 <price>3649.00</price>
                 <currencyId>RUB</currencyId>
@@ -2227,7 +2253,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/705/7ycssdro3k4hcwyy18p5g6zht6rj7rcz.png</picture>
             </offer>
-            <offer id="69" available="true">
+            <offer id="70" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_0w_20%3Foffer%3D30701</url>
                 <price>1436.00</price>
                 <currencyId>RUB</currencyId>
@@ -2262,7 +2288,7 @@
  Низкий уровень зольности (Mid SAPS) сокращает образование неорганических отложений в фильтрах сажевых частиц и каталитических нейтрализаторах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/258/hdv4hp00imh95hnf9vpynu1es0hd1lme.png</picture>
             </offer>
-            <offer id="70" available="true">
+            <offer id="71" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_30%3Foffer%3D30714</url>
                 <price>1058.00</price>
                 <currencyId>RUB</currencyId>
@@ -2298,7 +2324,7 @@
 Экономия топлива достигается за счёт оптимальной вязкости жидкости.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/422/1msf6qj8luqzcrvqjognx66ct6fdoks3.png</picture>
             </offer>
-            <offer id="71" available="true">
+            <offer id="72" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_fd_sinteticheskoe_5w_30%3Foffer%3D30471</url>
                 <price>4702.00</price>
                 <currencyId>RUB</currencyId>
@@ -2332,7 +2358,7 @@
  Повышенная топливная экономичность за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/ba6/pw0dtzkjlqv8dct6vtfizw34zduxn12c.jpg</picture>
             </offer>
-            <offer id="72" available="true">
+            <offer id="73" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_hk_sinteticheskoe_5w_30%3Foffer%3D30473</url>
                 <price>4275.00</price>
                 <currencyId>RUB</currencyId>
@@ -2358,7 +2384,7 @@
  Превосходные низкотемпературные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/893/n8wdicq1318gpch2kf27q8qtm7dxrgps.jpg</picture>
             </offer>
-            <offer id="73" available="true">
+            <offer id="74" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_5w_30%3Foffer%3D30464</url>
                 <price>4322.00</price>
                 <currencyId>RUB</currencyId>
@@ -2395,7 +2421,7 @@
  Специально подобранная рецептура минимизирует расход масла на угар.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/b1e/d37azdum7lwgns0xvm3u3k1msdw7363p.jpg</picture>
             </offer>
-            <offer id="74" available="true">
+            <offer id="75" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_gc_0w_20_maslo_motornoe_sinteticheskoe%3Foffer%3D30467</url>
                 <price>7189.00</price>
                 <currencyId>RUB</currencyId>
@@ -2427,7 +2453,7 @@
  Совместимо с системами доочистки выхлопных газов, чувствительных к уровню сульфатной зольности масел.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/e1a/gz264467enwfg6g00ibjcf744r6s9npr.jpg</picture>
             </offer>
-            <offer id="75" available="true">
+            <offer id="76" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Flukoil_genesis_armortech_cn_5w_40_maslo_motornoe_sinteticheskoe%3Foffer%3D30468</url>
                 <price>4037.00</price>
                 <currencyId>RUB</currencyId>
@@ -2457,7 +2483,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/d8d/0jkbf2ff92pymhh2nwo0vplk4sc9q52r.jpg</picture>
             </offer>
-            <offer id="76" available="true">
+            <offer id="77" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_sinteticheskoe_5w_40%3Foffer%3D30475</url>
                 <price>3674.00</price>
                 <currencyId>RUB</currencyId>
@@ -2495,7 +2521,7 @@
  Обладает малой зависимостью вязкости от температуры.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/3df/sty514oocrhzpoig5ydtwthx49c8domo.jpg</picture>
             </offer>
-            <offer id="77" available="true">
+            <offer id="78" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_gc_5w_30%3Foffer%3D30466</url>
                 <price>6317.00</price>
                 <currencyId>RUB</currencyId>
@@ -2526,7 +2552,7 @@
  За счёт входящих в состав масла полиальфаолефинов (ПАО) обладает превосходными низкотемпературными свойствами и низкой испаряемостью.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/c93/qvm9ncagtq9flkwc626rsd546a325ex6.jpg</picture>
             </offer>
-            <offer id="78" available="true">
+            <offer id="79" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dx1_sinteticheskoe_5w_30%3Foffer%3D30472</url>
                 <price>4026.00</price>
                 <currencyId>RUB</currencyId>
@@ -2563,7 +2589,7 @@
  Обладает обратной совместимостью с предыдущими категориями API.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/950/r02m4bj41xq1t6hpdgva1467lq23o5xa.jpg</picture>
             </offer>
-            <offer id="79" available="true">
+            <offer id="80" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_diesel_polusinteticheskoe_5w_30%3Foffer%3D30486</url>
                 <price>3682.00</price>
                 <currencyId>RUB</currencyId>
@@ -2590,7 +2616,7 @@
  Отличные антиокислительные и антикоррозионные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/138/l6xbpqye2bax3z54n1z6wtpptww95v7z.jpg</picture>
             </offer>
-            <offer id="80" available="true">
+            <offer id="81" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_30%3Foffer%3D30285</url>
                 <price>4387.00</price>
                 <currencyId>RUB</currencyId>
@@ -2629,7 +2655,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/cb1/kgm8awlvl099uqov6ioh955qkd49y64r.jpg</picture>
             </offer>
-            <offer id="81" available="true">
+            <offer id="82" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_sinteticheskoe_0w_40%3Foffer%3D30470</url>
                 <price>6161.00</price>
                 <currencyId>RUB</currencyId>
@@ -2663,7 +2689,7 @@
  Улучшенная стойкость к термическому окислению благодаря комбинации высокооще-лочного пакета присадок и полиальфаолефиновой (ПАО) базовой основы.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/68c/fjc965lf4ypebvfa2knqi87s5ct4t4o4.jpg</picture>
             </offer>
-            <offer id="82" available="true">
+            <offer id="83" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_5w_40_api_sq%3Foffer%3D30469</url>
                 <price>4892.00</price>
                 <currencyId>RUB</currencyId>
@@ -2726,7 +2752,7 @@
  Превосходные низкотемпературные свойства способствуют легкому пуску двигателя при низких температурах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/b65/zq5p1qtt35gz54x2rgco6tz600x1ma43.jpg</picture>
             </offer>
-            <offer id="83" available="true">
+            <offer id="84" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_30%3Foffer%3D30476</url>
                 <price>3004.00</price>
                 <currencyId>RUB</currencyId>
@@ -2754,7 +2780,7 @@
  Повышенная топливная экономичность за счет за счет низкого показателя HTHS (High Temperature High Shear) и пониженные выбросы CO2.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/6a4/fzs2jeaifeixlgdbi7v2pj7kyekv9rrd.jpg</picture>
             </offer>
-            <offer id="84" available="true">
+            <offer id="85" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_jp_sinteticheskoe_0w_20%3Foffer%3D30463</url>
                 <price>5225.00</price>
                 <currencyId>RUB</currencyId>
@@ -2793,7 +2819,7 @@
  Продлевает срок службы каталитических систем очистки выхлопных газов.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/c49/g74y15w7n847m09qj8ufbiwbxkl4qotv.jpg</picture>
             </offer>
-            <offer id="85" available="true">
+            <offer id="86" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_diesel_5w_30%3Foffer%3D30474</url>
                 <price>4512.00</price>
                 <currencyId>RUB</currencyId>
@@ -2823,7 +2849,7 @@
  Экономия топлива достигается за счёт оптимальной вязкости жидкости.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/481/0czzzfk3dvx8nx64x9wkf6d06xdghyo0.jpg</picture>
             </offer>
-            <offer id="86" available="true">
+            <offer id="87" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_10w_40%3Foffer%3D30478</url>
                 <price>3182.00</price>
                 <currencyId>RUB</currencyId>
@@ -2855,7 +2881,7 @@
  Высокое щелочное число препятствует образованию отложений и продлевает срок службы масла.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/09c/fzugfsfexypbfu55eanh22xfktqz3jvp.jpg</picture>
             </offer>
-            <offer id="87" available="true">
+            <offer id="88" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_universal_polusinteticheskoe_5w_40%3Foffer%3D30477</url>
                 <price>3705.00</price>
                 <currencyId>RUB</currencyId>
@@ -2887,7 +2913,7 @@
  Высокие противозадирные и противоизносные свойства.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/337/1ej4mnc99pf9n79m2kmrka6qwl1b6nxr.jpg</picture>
             </offer>
-            <offer id="88" available="true">
+            <offer id="89" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_racing_sinteticheskoe_5w_50%3Foffer%3D32228</url>
                 <price>7077.00</price>
                 <currencyId>RUB</currencyId>
@@ -2913,7 +2939,7 @@
  Обеспечивает надежную защиту высокооборотистых турбированных двигателей.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/5c6/7jjhe2fzsefnx404s56wfgawl62g62qe.jpg</picture>
             </offer>
-            <offer id="89" available="true">
+            <offer id="90" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_armortech_dpf_gpf_5w_30%3Foffer%3D32225</url>
                 <price>4222.00</price>
                 <currencyId>RUB</currencyId>
@@ -2949,7 +2975,7 @@
 Экономия топлива достигается за счёт оптимальной вязкости жидкости.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/c5e/ovcbmsyycsyyiv54djqyhznsgda01px4.png</picture>
             </offer>
-            <offer id="90" available="true">
+            <offer id="91" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fmotornye_masla%2Flegkovye_avtomobili%2Fmaslo_motornoe_lukoil_genesis_special_vn_5w_40%3Foffer%3D24711</url>
                 <price>2800.00</price>
                 <currencyId>RUB</currencyId>
@@ -2985,32 +3011,6 @@
  Совместимость с системами доочистки
  Низкий уровень зольности (Mid SAPS) сокращает образование неорганических отложений в фильтрах сажевых частиц и каталитических нейтрализаторах.</description>
                 <picture>https://ru.lukoil-shop.com/upload/iblock/4ca/mvdhk0ipxtdrtotragjjjlg4v5k9upeh.jpg</picture>
-            </offer>
-            <offer id="91" available="true">
-                <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokhimiya%2Fsmazka_molibdenovaya%3Foffer%3D18539</url>
-                <price>342.00</price>
-                <currencyId>RUB</currencyId>
-                <categoryId>4</categoryId>
-                <name>Смазка молибденовая ЛУКОЙЛ 335 мл</name>
-                <description>Обеспечивает эффективную и долговечную работу разного рода механизмов, работающих при повышенных нагрузках и в условиях возможного загрязнения пылью, грязью, осадками. Обладает двойным смазывающим действием – наличие дисульфида молибдена гарантирует сохранение смазывающих свойств даже в тех случаях, когда сама смазка уже истощена или выработалась при высоких температурах. Улучшает скольжение и защищает от износа различные детали (открытые шестерни, цепи, эксцентрики, направляющие, тросы, задвижки, шарниры, звездочки, элементы подъемно-транспортного оборудования и т.п.). Устраняет скрип, предохраняет от ржавчины и коррозии, устойчива к солевым растворам и кислотным осадкам. Сохраняет неизменными смазывающие свойства в диапазоне от -40°С до +200°С. 
- 
- Указания по применению
- Перед использованием хорошо встряхнуть баллон. Нанести смазку тонким слоем на очищенные от рыхлой ржавчины и окалины обрабатываемые детали. Для труднодоступных мест использовать удлинительную трубочку.
- 
- Меры безопасности при использовании
- Использовать осторожно: воспламеняющийся аэрозоль, баллон под давлением. При нагревании возможен взрыв. Беречь от источников воспламенения, нагревания, искр, открытого огня. Не курить при использовании. Не нарушать целостности упаковки и не сжигать даже после использования. Беречь от солнечных лучей, избегать нагревания выше 50°С. 
- 
- Срок годности и хранения
- Допускается хранение при температуре от -40°С&amp;nbsp;до +50°С. Гарантийный срок хранения 36 месяцев с даты изготовления в таре производителя при соблюдении условии транспортирования и хранения.
- 
- Упаковка и состав
- аэрозоль 335 мл
- алифатический растворитель &amp;gt;30%
- пропан-бутан &amp;gt;30%
- синтетическое масло 5-15%
- мелкодисперсный дисульфид молибдена &amp;lt;5%
- функциональные добавки &amp;lt;5%</description>
-                <picture>https://ru.lukoil-shop.com/upload/iblock/b89/kvghtw8d4lx1nwurcfrzlo7kdqx12h5w.jpg</picture>
             </offer>
             <offer id="92" available="true">
                 <url>https://hvjjg.com/g/8vnmhpgf773c08bd9d2c052fe9fd1a/?erid=2bL9aMPo2e49hMef4piUHJTFSs&amp;f_id=26554&amp;ulp=https%3A%2F%2Fru.lukoil-shop.com%2Fcatalog%2Fother%2Favtokosmetika%2Flukoyl_antiled_razmorazhivatel_stekol%3Foffer%3D18691</url>
